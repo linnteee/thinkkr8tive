@@ -4,11 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "dev": "vite",
-  "build": "npx vite build",
-  "lint": "eslint .",
-  "preview": "vite preview"
-}
+    "build": "npx vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.4",
@@ -29,4 +27,4 @@
     "tailwindcss": "^4.1.4",
     "vite": "^4.5.0"
   }
-
+}
